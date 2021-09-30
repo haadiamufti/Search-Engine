@@ -1,0 +1,6 @@
+tree
+binary tree
+queue
+search
+list
+binary
